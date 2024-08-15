@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* body{
+    background-color: pink;
+}
+@media screen and (min width:480px){
+    body{
+        background-color: red;
+    }
+    
+} */
+ body{
+    background-color: blue;
+} 
+@media screen and (max width:992px) {
+    body{
+        background-color: blue;
+    }
+
+    
+/* }
+ @media screen and (max width:600px) {
+    body{
+        background-color: olive;
+    }
+    
+}  */

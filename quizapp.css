@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: black;
+}
+
+h1 {
+    color: red;
+    display: flex;
+    justify-content: center;
+    background-color: black;
+
+}
+
+#btn1{
+    width: 500px;
+    height: 50px;
+    background-color: yellow;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    line-height: 50px;
+    margin: 0 auto;
+    border-radius: 2px solid blue;
+    cursor: pointer;
+       
+}
+:hover button{
+    color: red;
+}
+
+button {
+    background-color: yellow;
+    display: flex;
+    margin: 0 auto;
+    width: 500px;
+    height: 50px;
+    justify-content: center;
+    line-height: 50px;
+    border-radius: 20px;
+
+}
+
+.container {
+    border: 2px solid beige;
+    justify-content: center;
+    display: grid;
+    align-items: center;
+    width: 600px;
+    height: 605px;
+    margin: 0 auto;
+
+}
+

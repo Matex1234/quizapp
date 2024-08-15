@@ -1,0 +1,29 @@
+body{
+    background-attachment: scroll;
+    background-color: blue;
+    background-blend-mode: color;
+    margin: 0;
+    padding: 0;
+}
+h1{
+    color: purple;
+    justify-content: center;
+    display: flex;
+}
+form{
+    display: grid;
+    justify-content: center;
+    border: 10px solid green;
+    width: 500px;
+    height: 400px;
+    align-items: center;
+    margin: 0 auto;
+
+}
+#button-hover:hover{
+    display: flex;
+    gap: 50px;
+    border-radius: 6rem;
+    color: green;
+
+}
